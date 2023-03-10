@@ -1,0 +1,11 @@
+body{
+    background-color: darkgrey;
+    font-family: monospace;
+    text-align: center;
+    align-items:center;
+    font-size: 2rem;
+}
+
+a[href$="https://www.realmadrid.com/en"]{
+    background-color: darkblue;
+}
